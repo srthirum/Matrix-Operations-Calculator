@@ -1,0 +1,13 @@
+# Matrix-Operations-Calculator
+The calculator can perform matrix operations that exploits the (expected) sparseness of it’s matrix operands.
+List.java 
+List module that creates a doubly linked list.
+
+ListTest.java
+Test client for the List ADT
+
+Matrix.java
+An array of Lists that hold the matrix rows one for each spot
+
+MatrixTest.java
+Test client for Matrix.java
